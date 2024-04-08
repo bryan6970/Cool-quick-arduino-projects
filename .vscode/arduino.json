@@ -1,6 +1,6 @@
 {
     "sketch": "Voltage meter//Voltage meter.ino",
     "board": "arduino:avr:uno",
-    "port": "COM4e",
+    "port": "COM4",
     "output": "./build"
 }
