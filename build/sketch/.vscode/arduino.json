@@ -1,7 +1,0 @@
-#line 1 "C:\\Users\\thacu\\Coding Projects\\Cool quick arduino projects\\.vscode\\arduino.json"
-{
-    "sketch": "Voltage meter.ino",
-    "board": "arduino:avr:uno",
-    "port": "COM4",
-    "output": "./build"
-}

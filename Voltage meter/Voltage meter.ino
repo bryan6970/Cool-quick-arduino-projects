@@ -14,10 +14,6 @@ This means that it cannot measure negative voltages, so if only 0v is measured w
 
 */
 
-#include <Arduino.h>
-#include <HardwareSerial.h>
-#include <USBAPI.h>
-
 
 int update_rate = 120; // update rate in hertz
 const int Serial_baud_rate = 9600; // Board update frequency

@@ -1,5 +1,5 @@
 {
-  "additionalFiles": "..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..",
+  "additionalFiles": "",
   "builtInToolsFolders": "",
   "compiler.optimization_flags": "",
   "customBuildProperties": "",
@@ -7,5 +7,5 @@
   "hardwareFolders": "C:\\Users\\thacu\\AppData\\Local\\Arduino15\\packages",
   "otherLibrariesFolders": "C:\\Users\\thacu\\Documents\\Arduino\\libraries",
   "runtime.ide.version": "10607",
-  "sketchLocation": "C:\\Users\\thacu\\Coding Projects\\Cool quick arduino projects"
+  "sketchLocation": "C:\\Users\\thacu\\Coding Projects\\Cool quick arduino projects\\Voltage meter"
 }

@@ -23,10 +23,10 @@
    "-DARDUINO_ARCH_AVR",
    "-IC:\\Users\\thacu\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino",
    "-IC:\\Users\\thacu\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard",
-   "C:\\Users\\thacu\\Coding Projects\\Cool quick arduino projects\\build\\sketch\\Cool quick arduino projects.ino.cpp",
+   "C:\\Users\\thacu\\Coding Projects\\Cool quick arduino projects\\build\\sketch\\Voltage meter.ino.cpp",
    "-o",
-   "C:\\Users\\thacu\\Coding Projects\\Cool quick arduino projects\\build\\sketch\\Cool quick arduino projects.ino.cpp.o"
+   "C:\\Users\\thacu\\Coding Projects\\Cool quick arduino projects\\build\\sketch\\Voltage meter.ino.cpp.o"
   ],
-  "file": "C:\\Users\\thacu\\Coding Projects\\Cool quick arduino projects\\build\\sketch\\Cool quick arduino projects.ino.cpp"
+  "file": "C:\\Users\\thacu\\Coding Projects\\Cool quick arduino projects\\build\\sketch\\Voltage meter.ino.cpp"
  }
 ]
