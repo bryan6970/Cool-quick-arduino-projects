@@ -19,6 +19,7 @@ A voltage divider is a simple circuit that allows you to reduce voltage. It dist
 
 Here is an example circuit to demonstrate the voltage dividers. Make sure to load the Arduino up with the [Voltage meter code.](https://github.com/bryan6970/Cool-quick-arduino-projects/blob/main/Voltage%20meter/Voltage%20meter.ino){:target="_blank"}
 
+
 ![alt text](<Voltage divider circuit.png>)
 
 ## Explaination of circuit
