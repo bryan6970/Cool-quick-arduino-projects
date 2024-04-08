@@ -2,7 +2,7 @@
 Github: https://github.com/bryan6970
 
 How to use
-- Turn on Serial monitor, and set the baud rate to the Serial baud rate set below
+- Turn on Serial monitor, and set the baud rate to the Serial baud rate set below (Default: 9600)
 - Put a jumper wire in GND, and one in A0.
 - Connect the wires to the points which voltage you want to measure
 
