@@ -12,6 +12,10 @@ This circuit can only measure ranges from 0v - 5v.
 
 This means that it cannot measure negative voltages, so if only 0v is measured when a voltage is expected, put your wires the other way.
 
+Important note
+
+This cannot be used to measure voltage across components if you are using the same Arduino to power your circuit, unless the ground of your circuit also happens to be the ground of where you are trying to meausure.
+
 */
 
 
