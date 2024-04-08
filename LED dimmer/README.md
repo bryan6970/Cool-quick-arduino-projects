@@ -1,6 +1,6 @@
 # How to wire the circuit
 
-![alt text](image.png)
+![alt text](<main circuit.png>)
 
 # How does this work?
 
